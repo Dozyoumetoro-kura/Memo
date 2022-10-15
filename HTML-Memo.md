@@ -17,6 +17,7 @@
 
 <a id="anchor0100"></a>
 # `<!DOCTYPE html>`
+<br>
 
 `<!DOCTYPE html>`
 
@@ -25,6 +26,7 @@
 <a id="anchor0101"></a>
 # `<html></html>`
 
+<br>
 ```
 <html>
 コード
